@@ -1,0 +1,14 @@
+C:\Users\nazer\Desktop\final_work\final_task\bin\Debug\net8.0\final_task.exe
+C:\Users\nazer\Desktop\final_work\final_task\bin\Debug\net8.0\final_task.deps.json
+C:\Users\nazer\Desktop\final_work\final_task\bin\Debug\net8.0\final_task.runtimeconfig.json
+C:\Users\nazer\Desktop\final_work\final_task\bin\Debug\net8.0\final_task.dll
+C:\Users\nazer\Desktop\final_work\final_task\bin\Debug\net8.0\final_task.pdb
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.AssemblyInfoInputs.cache
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.AssemblyInfo.cs
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.csproj.CoreCompileInputs.cache
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.dll
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\refint\final_task.dll
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.pdb
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\final_task.genruntimeconfig.cache
+C:\Users\nazer\Desktop\final_work\final_task\obj\Debug\net8.0\ref\final_task.dll
